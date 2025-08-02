@@ -1,2 +1,2 @@
 # Bibleino
- A little but big project
+ A little ESP32 Webscrapper... Template
